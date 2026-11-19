@@ -1,0 +1,20 @@
+body{
+    background-color: #8fd4fa;
+    color: darkblue;
+}
+header{
+    background-color: aqua;
+}
+p{
+    font-size: 20pt;
+}
+img{
+    width: 300px;
+}
+#slogan{
+    color: red;
+    font-size: 30pt;
+}
+.parrafo{
+    background-color: darkmagenta;
+}
